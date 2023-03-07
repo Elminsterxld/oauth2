@@ -9,4 +9,15 @@
 ## Configuration
 Most settings are made in `finitto.js`
 
+## Commands
+
+`Clean`
+`Help`
+`Join`
+`Joinall`
+`Pull`
+`Refresh`
+`Stop`
+`Users`
+`Wl`
 ### The bot will not work without fully installing it.
