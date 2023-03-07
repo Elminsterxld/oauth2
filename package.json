@@ -1,0 +1,19 @@
+{
+  "name": "finitto-autho2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "borgoose": "^1.0.7",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ip-to-location": "^1.0.1",
+    "node-fetch": "^2.6.7"
+  }
+}
